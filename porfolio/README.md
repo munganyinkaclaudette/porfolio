@@ -8,7 +8,7 @@ This webpage contains information about me and others projects that i was create
 * git page https://munganyinkaclaudette.github.io/porfolio/
 * code . (if u have used visual studio)
 ## Known Bugs
-
+Hope that my code of this page is clear and understandable.
 ## Technologies Used
 I used html and css languages
 ## Support and contact details
@@ -16,5 +16,5 @@ If u have any suggestion or question kindlu contact me on:
 * Tel: 0782898631
 * Email: munganyiclaude@gmail.com
 ### License
-MIT Licence
+MIT Licence Copyright (c) 2018 ** Munganyinka Claudette **
   
